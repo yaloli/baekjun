@@ -1,7 +1,4 @@
 
-from tkinter import E
-
-
 def solution():
     # 시작 20:17 끝 20:45
     R, C = map(int, input().split())
